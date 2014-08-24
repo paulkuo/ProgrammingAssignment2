@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## There are 2 functions in this files.
+##  1. makeCacheMatrix is to create a cacheable matrix object.
+##  2. cacheSolve is to get the inverse of the matrix.
 
 ## makeCacheMatrix creates a special "matrix",
 ## which is really a list containing the following functions:
